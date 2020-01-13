@@ -1,2 +1,6 @@
 Hello i am prasanna
+<<<<<<< HEAD
 this is added this after the c feature 
+=======
+this is added from the feature c
+>>>>>>> feature-c
